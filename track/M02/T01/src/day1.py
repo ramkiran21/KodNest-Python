@@ -1,0 +1,19 @@
+#program2
+# Create the required variables
+student_name = "Aarav"
+course_duration = 30
+course_rating = 4.8
+is_enrolled = True
+
+# Display the data type of each variable
+print(type(student_name))
+print(type(course_duration))
+print(type(course_rating))
+print(type(is_enrolled))
+
+#program1
+
+# Add the required lines here
+print("Welcome to KodNest")
+print("Python Track Started")
+print("Let us begin coding")
