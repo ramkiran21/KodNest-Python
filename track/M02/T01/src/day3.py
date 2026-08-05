@@ -1,3 +1,18 @@
+#program4
+#for loops
+# Read the number and word
+n = int(input())
+character = input()
+
+# Print the number sequence
+print("Numbers:")
+for i in range(1,n+1):
+    print(i)
+
+print("Characters:")
+for c in character:
+    print(c)
+
 #program3
 #claculate total
 
